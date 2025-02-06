@@ -1,0 +1,12 @@
+---
+app: "mon app"
+user:
+  username: "dusty et jojoyce"
+  role: "fdsdfsdf"
+urls:
+  admin:
+    enabled: true
+    uri: "http://admin.fr"
+  back:
+    enabled: true
+    uri: "http://backend.fr"
